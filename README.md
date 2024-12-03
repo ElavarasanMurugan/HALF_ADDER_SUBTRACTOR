@@ -92,3 +92,5 @@ Developed by: Elavarasan M RegisterNumber: 24900162*/
 ![half subracter waveform](https://github.com/user-attachments/assets/5c3a445e-1c99-49b8-8f91-bde7a2e9c4ab)
 
 **Result:**
+
+Thus the half adder and half subtractor circuits were successfully designed, and their truth tables were verified in Quartus using Verilog programming.
