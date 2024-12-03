@@ -63,19 +63,29 @@ Figure -02 HALF Subtractor
 1.HALF ADDER
 
 module halfadder(a,b,sum,carry);
+
 input a,b;
+
 output sum,carry;
+
 assign sum= (a ^ b);
+
 assign carry= ( a & b);
+
 endmodule
 
 2.HALF SUBRACTER
 
 module halfsubracter(a,b,difference,borrow);
+
 input a,b;
+
 output difference,borrow;
+
 assign difference= (a ^ b);
+
 assign borrow= ( ~a & b);
+
 endmodule
 
 
