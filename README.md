@@ -34,6 +34,13 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+1. HALF ADDER
+ ![Half adder truth table](https://github.com/user-attachments/assets/9b3aed28-54a0-4a86-9007-d9d2414d8a1b)
+
+2.HALF SUBRACTER
+![half subracter truth table](https://github.com/user-attachments/assets/8eafd4c4-8d73-428d-9750-e565429e9331)
+
+
 
 **Procedure**
 
